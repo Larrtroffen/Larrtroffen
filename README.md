@@ -1,6 +1,7 @@
 # 👋Hello
 
 I'm LiXinhua, from Shandong University Sch. of Poli. Sci. & Publ. Adm.
+
 Major in Public Administration & Electronic information engineering, Dual bachelor program.
 
 
