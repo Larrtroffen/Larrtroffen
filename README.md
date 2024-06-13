@@ -6,7 +6,7 @@ Major in Public Administration & Electronic information engineering, Dual bachel
 
 ## Research Interests🔍
 
-- Computational Social Science
+- **Computational Social Science** (Very Popular!)
 - Social Network & Knowledge Graph
 - Socialogy & Anthropology
 
