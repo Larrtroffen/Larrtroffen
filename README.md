@@ -15,5 +15,8 @@ Major in Public Administration & Electronic information engineering, Dual bachel
 - Vocaloid Music 🎼
 - Postmodernism Philosopy 🤖
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Larrtroffen&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Larrtroffen)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larrtroffen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Larrtroffen)](https://github.com/ryo-ma/github-profile-trophy)
+
