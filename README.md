@@ -4,13 +4,13 @@ I'm LiXinhua, from School of Political Science & Public Administration of Shando
 
 Major in Public Administration & Electronic information engineering, Dual bachelor program.
 
-### Research Interests🔍
+## Research Interests🔍
 
 - Computational Social Science
 - Social Network & Knowledge Graph
 - Socialogy & Anthropology
 
-### Hobbies🎈
+## Hobbies🎈
 
 - Vocaloid Music 🎼
 - Postmodernism Philosopy 🤖
