@@ -1,8 +1,7 @@
 # 👋Hello
 
-I'm LiXinhua, from School of Political Science & Public Administration of Shandong University.
-
-Major in Public Administration & Electronic information engineering, Dual bachelor program.
+- I'm LiXinhua, from School of Political Science & Public Administration of Shandong University.
+- Major in Public Administration & Electronic information engineering, Dual bachelor program.
 
 ## Research Interests🔍
 
