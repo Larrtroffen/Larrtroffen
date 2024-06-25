@@ -1,6 +1,6 @@
 # 👋Hi
 
-- I'm Li Xinhua, from School of Political Science & Public Administration of Shandong University, PRC.
+- I'm Larrtroffen, from School of Political Science & Public Administration of Shandong University, PRC.
 - Major in Public Administration & Electronic information engineering, Dual bachelor program.
 
 ## Research Interests🔍
