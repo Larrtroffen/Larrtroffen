@@ -5,7 +5,7 @@
 
 ## Research Interests🔍
 
-- **Computational Social Science** (Very Popular!)
+- **Computational Social Science** 
 - Social Network & Knowledge Graph
 - Socialogy & Anthropology
 
