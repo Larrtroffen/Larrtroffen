@@ -1,5 +1,7 @@
 # 👋Hi
 
+![Visitor Count](https://profile-counter.glitch.me/Larrtroffen/count.svg)
+
 - I'm Larrtroffen, from School of Political Science & Public Administration of Shandong University, P.R.C.
 - Major in Public Administration & Electronic Science and Technology, Dual bachelor program.
 
