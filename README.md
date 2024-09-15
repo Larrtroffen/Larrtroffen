@@ -5,7 +5,7 @@
 
 <!-- profile logo 个人资料徽标 -->
 <div>
-  <a href="https://twitter.com/Larrtroffen_/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+  <a href="https://twitter.com/Larrtroffen/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
   <a href="https://www.youtube.com/@Larrtroffen"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
   <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkzNzY4NTU5OA==&scene=124#wechat_redirect"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
   <a href="https://space.bilibili.com/26038386/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
