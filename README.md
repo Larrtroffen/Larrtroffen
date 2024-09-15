@@ -7,7 +7,7 @@
 
 - **Computational Social Science** 
 - Social Network & Knowledge Graph
-- Socialogy & Anthropology
+- Sociology & Anthropology
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Larrtroffen)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larrtroffen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
