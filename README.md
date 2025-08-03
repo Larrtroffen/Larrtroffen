@@ -20,6 +20,14 @@
 - Social Network & Knowledge Graph
 - Sociology & Anthropology
 
+## My Journey
+
+[![My Workspace](https://skillicons.dev/icons?i=obsidian,md,vscode,git,github,ubuntu)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,vue,python,langchain，r)](https://skillicons.dev)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Larrtroffen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larrtroffen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Larrtroffen)](https://github.com/ryo-ma/github-profile-trophy)
