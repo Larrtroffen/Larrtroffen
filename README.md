@@ -1,7 +1,8 @@
 # 👋Hi
 
 - I'm Larrtroffen, from School of Political Science & Public Administration of Shandong University, P.R.C.
-- Major in Administrative Management & Electronic Science and Technology, Dual bachelor program.
+- I hold dual bachelor's degrees in Administrative Management & Electronic Science and Technology.
+- Currently working as a Research Assistant at the Institute for Digital Government and Governance, Tsinghua University.
 
 <!-- profile logo 个人资料徽标 -->
 <div>
@@ -16,11 +17,13 @@
 ## Research Interests🔍
 
 - **Computational Social Science** 
-- Social Network & Knowledge Graph
+- Digital Government & Governance
+- Knowledge Graph
 - Politics of Information & Technology
+- AI for Social Science Research
 
 ## My Journey
 
-[![My Workspace](https://skillicons.dev/icons?i=obsidian,md,vscode,git,github,ubuntu)](https://skillicons.dev)
+[![My Workspace](https://skillicons.dev/icons?i=obsidian,md,vscode,git,github,ubuntu,linux,docker)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,vue,python,langchain，r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,ts,js,html,css,vue,pytorch,tensorflow,sklearn,opencv,anaconda,fastapi,langchain)](https://skillicons.dev)
